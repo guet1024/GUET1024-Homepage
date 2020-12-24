@@ -17,3 +17,6 @@ yarn docs:dev
 ```
 yarn docs:build
 ```
+
+# develop
+see [VuePress](https://vuepress.vuejs.org/)
