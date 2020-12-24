@@ -9,9 +9,12 @@ port: 8778
   
 themeConfig: 
   logo: '/assets/img/guet1024.png'
+  displayAllHeaders: true
+  sidebar: auto
   nav:
     - {text: '主页', link: '/' }
-    - {text: '文章', link: '/article/' }
+    - {text: '项目', link: '/Project/' }
+    - {text: '文档', link: '/Document/' }
     - {text: 'GitHub', link: 'https://github.com/guet1024' }
     
   
