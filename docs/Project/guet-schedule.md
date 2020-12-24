@@ -2,6 +2,7 @@
 sidebar: auto
 ---
 
+# GUET课程表APP
 
 ## 直接下载安装
 
