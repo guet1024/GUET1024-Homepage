@@ -6,4 +6,4 @@ sidebar: auto
 
 ## GUET课程表APP
 
-[GUET课程表](./guet-schedule.md)
+[**GUET课程表**](./guet-schedule.md)
