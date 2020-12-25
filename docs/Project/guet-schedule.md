@@ -45,9 +45,9 @@ sidebar: auto
 
 ## 交流反馈
 
-- 🐧 QQ交流群
-**②群 913320924**
-**①群 336405176（已满）**
+### 🐧 QQ交流群
+- [**②群 913320924**](https://qm.qq.com/cgi-bin/qm/qr?k=LjOFHb-pTST28-QLMqiz5uTcKH-_3h-4&jump_from=webapi)
+- **①群 336405176（已满）**
 
 - ❗ [Github Issue](https://github.com/guet1024/GUET-Schedule/issues)
 
