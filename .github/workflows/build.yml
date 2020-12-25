@@ -48,6 +48,6 @@ jobs:
         with:  
           username: 'root'   #ssh user name
           server: '${{ secrets.NOWORLD_IP }}' #引用之前创建好的secret IP
-          ssh_private_key: ${{ secrets.SECRET_NOWORLD }} #引用之前创建好的secret 私钥
+          ssh_private_key: ${{ secrets.NOWORLD_SSH_PRIVATE_KEY }} #引用之前创建好的secret 私钥
           local_path: './docs/.vuepress/dist/*'  # 对应我们项目build的文件夹路径
           remote_path: '/www/wwwroot/guet1024.cn'
