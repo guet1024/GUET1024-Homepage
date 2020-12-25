@@ -5,7 +5,7 @@ GUET1024 official websi
 ```
 git clone git@github.com:guet1024/GUET1024-Homepage.git
 cd GUET1024-Homepage
-yarn
+yarn install
 ```
 
 # run
