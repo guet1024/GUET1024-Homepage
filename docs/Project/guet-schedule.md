@@ -9,7 +9,7 @@ sidebar: auto
 - APK文件：点击下方链接下载最新版本的APK安装包直接安装。
 
  [<a style="font-size:25px">👉最 新 版 本</a>](https://wwa.lanzous.com/b00u3y7za)
-- 各大应用商店搜索 **GUET课程表** 🔍（暂无，努力中）
+- 各大应用商店搜索 **GUET课程表** 🔍（暂无，努力中...）
 
 ## 平台
 
