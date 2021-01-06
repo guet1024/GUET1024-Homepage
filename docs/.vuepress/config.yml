@@ -3,6 +3,13 @@ description: 非官方桂电开源社区，收录优秀项目和有价值的学�
 head: 
   - - link
     - { rel: 'icon', href: '/assets/img/guet1024.png' }
+  - - meta 
+    - {itemprop: 'name', content: 'GUET1024'}
+  - - meta 
+    - {itemprop: 'image', content: '/assets/img/guet1024.png'}
+  - - meta 
+    - {name: 'description', itemprop: 'description', content: '非官方桂电开源社区，收录优秀项目和有价值的学习资料。'}
+
 base: /
 host: 0.0.0.0
 port: 8778
