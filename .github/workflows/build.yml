@@ -45,8 +45,8 @@ jobs:
         uses: wlixcc/SFTP-Deploy-Action@v1.0 
         with:  
           username: 'root'
-          server: '${{secrets.NOWORLD_IP}}'
-          ssh_private_key: ${{secrets.NOWORLD_SSH_PRIVATE_KEY}} 
+          server: '${{secrets.GUET1024_IP}}'
+          ssh_private_key: ${{secrets.GUET1024_SSH_lPRIVATE_KEY}} 
           local_path: './docs/.vuepress/dist/*' 
-          remote_path: '/www/wwwroot/guet1024.cn'
+          remote_path: '/www/guet1024.cn'
           args: '-o ConnectTimeout=5'
