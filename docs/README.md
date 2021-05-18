@@ -2,7 +2,7 @@
 home: true
 heroImage: /assets/img/guet1024.png
 heroText: 桂电1024
-tagline: 非官方桂电开源社区，收录优秀项目和有价值的学习资料。
+tagline: 非官方桂电互联网社区，收录优秀项目和有价值的学习资料。QQ群：705622908
 actionText: About GUET1024 →
 actionLink: about.md
 features:
